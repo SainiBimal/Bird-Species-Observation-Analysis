@@ -134,4 +134,7 @@ Data Analyst Intern
 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/bimalsaini333/) | [GitHub](https://github.com/SainiBimal)
+
+
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=SainiBimal&style=flat-square)
