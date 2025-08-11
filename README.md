@@ -121,7 +121,7 @@ The dataset includes:
 
 ---
 
-### 📌 Conclusion
+### 📌 Conclusion 
 The analysis reveals that bird activity is strongly influenced by time of day, temperature, and humidity. Hotspot locations with optimal climate conditions show higher biodiversity. Strategic conservation efforts during peak activity hours and in biodiversity-rich areas can significantly improve protection outcomes.
 
 ---
